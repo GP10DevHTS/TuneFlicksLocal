@@ -1,0 +1,17 @@
+# Ignore all media files
+*.mp3
+*.mp4
+*.wav
+*.ogg
+*.flac
+*.avi
+*.mov
+*.mkv
+*.webm
+*.mpg
+*.mpeg
+*.wmv
+
+# Optionally, you can also ignore any temporary files
+*.log
+*.tmp
