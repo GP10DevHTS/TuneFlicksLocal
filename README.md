@@ -28,13 +28,20 @@
 
 > **TuneFlicksLocal** is designed for private, local use only and is not meant to be exposed to the open internet.
 
-## Appreciations
-|GP10DevHTS|Ajjitech Systems|
-|:----------:|:----------------:|
-|[GitHub](https://github.com/GP10DevHTS)|[Ajjitech Website](http://ajjitechsystems.net)|
-|![Profile](https://ajjitechsystems.net/storage/IMG-jordan.png)|![Logo](https://ajjitechsystems.net/images/holltech-favcon.png)|
-
 ---
 
-Enjoy local content with ease, privacy, and flexibility—right from your own home!
+> Enjoy local content with ease, privacy, and flexibility—right from your own home!
+
+## Appreciations
+
+| GP10DevHTS | Ajjitech Systems |
+|:----------:|:----------------:|
+| [GitHub](https://github.com/GP10DevHTS) | [Ajjitech Website](http://ajjitechsystems.net) |
+| <img src="https://ajjitechsystems.net/storage/IMG-jordan.png" alt="Profile" width="100" height="100"> | <img src="https://ajjitechsystems.net/images/holltech-favcon.png" alt="Logo" width="100" height="100"> |
+| **Contact** | **Contact** |
+| jordankatetegirwe@gmail.com | connect@ajjitechsystems.net |
+
+
+
+
 
